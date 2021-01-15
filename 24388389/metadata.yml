@@ -1,0 +1,12 @@
+---
+:id: 24388389
+:submitters:
+- :name: Chengyi Liu
+  :email: chengyi3@illinois.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-11-10 22:41:23.096922000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-11-10 14:41:23.096922000 Z
+:status: processed
+:score: 10.0
