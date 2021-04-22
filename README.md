@@ -1,3 +1,3 @@
 # machine-learning-projects
-https://courses.grainger.illinois.edu/cs440/fa2019/MPs/mp1/assignment1.html
+https://courses.grainger.illinois.edu/cs440/fa2019/
 cs 440 UIUC
